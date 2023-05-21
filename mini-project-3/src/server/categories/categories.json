@@ -1,0 +1,41 @@
+  {
+    "genre": [
+      {
+        "fiction": [
+          "crime",
+          "romance",
+          "thriller",
+          "magic realism",
+          "comedy",
+          "young adult",
+          "kids"
+        ],
+        "non-fiction": [
+          "history",
+          "religion",
+          "philosophy",
+          "current affairs",
+          "biography"
+        ]
+      }
+    ],
+    "languages": [
+      "english",
+      "german",
+      "french",
+      "spanish",
+      "hungarian",
+      "romanian",
+      "serbian"
+    ],
+    "authors": [
+      "Paul Auster",
+      "Kurt Vonnegut",
+      "Søren Kierkegaard",
+      "Mary Shelley",
+      "Haruki Murakami",
+      "Jane Austen",
+      "Agatha Christie",
+      "Virginia Woolf"
+    ]
+  }

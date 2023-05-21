@@ -1,0 +1,227 @@
+[
+  {
+    "id": 0,
+    "bookTitle": "Don Quijote",
+    "year": 2005,
+    "language": "Danish",
+    "genre": "Fiction",
+    "author": "Miguel de Cervantes Saavedra",
+    "publisher": "Rosinante",
+    "picture": "img/donquijote.jpeg",
+    "price": "199 DKK",
+    "discount": "yes"
+    
+  },
+  {
+    "id": 1,
+    "bookTitle": "For Whom the Bell Tolls",
+    "year": 1992,
+    "language": "English",
+    "genre": "Fiction",
+    "author": "Ernest Hemmingway",
+    "publisher": "Times New Roman",
+    "picture": "img/ForWhom.jpg",
+    "price": "200 DKK",
+    "discount": "yes"
+  },
+  {
+    "id": 2,
+    "bookTitle": "Welcome to the Monkey House",
+    "year": 1994,
+    "language": "English",
+    "genre": "Fiction",
+    "author": "Kurt Vonnegut",
+    "publisher": "Times New Roman",
+    "picture": "img/wttmh.jpg",
+    "price": "200 DKK",
+    "discount": "yes"
+  },
+  {
+    "id": 3,
+    "bookTitle": "Hærværk",
+    "year": 1990,
+    "language": "Danish",
+    "genre": "Fiction",
+    "author": "Tom Christensen",
+    "publisher": "Gyldendal",
+    "picture": "img/haervaerk.jpg",
+    "price": "249 DKK",
+    "discount": "yes"
+  },
+  {
+    "id": 4,
+    "bookTitle": "Kafka On the Shore",
+    "year": 2005,
+    "language": "Japanese",
+    "genre": "Fiction",
+    "author": "Haruki Murakami",
+    "publisher": "Penguin",
+    "picture": "img/kafkaontheshore.jpg",
+    "price": "149 DKK",
+    "discount": "yes"
+  },
+  {
+    "id": 5,
+    "bookTitle": "The Power of Now",
+    "year": 2012,
+    "language": "English",
+    "genre": "Non Fiction",
+    "author": "Eckhart Tolle",
+    "publisher": "New World Library",
+    "picture": "img/thepowerofnow.jpg",
+    "price": "199 DKK",
+    "discount": "yes"
+  },
+  {
+    "id": 6,
+    "bookTitle": "Obama: A Promised Land",
+    "year": 2020,
+    "language": "English",
+    "genre": "Biography",
+    "author": "Barack Obama",
+    "publisher": "Crown",
+    "price": "299 DKK",
+    "picture": "img/obama.jpg",
+    "discount": "yes"
+  },
+  {
+    "id": 7,
+    "bookTitle": "The Alchemist",
+    "year": 1988,
+    "language": "Spanish",
+    "genre": "Fiction",
+    "author": "Paulo Coelho",
+    "publisher": "HarperTorch",
+    "price": "189 DKK",
+    "picture": "img/thealchemist.jpg",
+    "discount": "yes"
+  },
+
+  {
+    "id": 8,
+    "bookTitle": "The Captial",
+    "year": 2017,
+    "language": "English",
+    "genre": "Economy",
+    "author": "Thomas Piketty",
+    "publisher": "HarperTorch",
+    "price": "389 DKK",
+    "picture": "img/capital.jpg",
+    "discount": "no"
+  },
+
+  {
+    "id": 9,
+    "bookTitle": "American Psycho",
+    "year": 1991,
+    "language": "English",
+    "genre": "Thriller",
+    "author": "Brett Easton Elis",
+    "publisher": "Penguin",
+    "price": "229 DKK",
+    "picture": "img/americanpsycho.jpeg",
+    "discount": "no"
+  },
+
+  {
+    "id": 10,
+    "bookTitle": "The Great Gatsby",
+    "year": 1991,
+    "language": "English",
+    "genre": "Thriller",
+    "author": "Scott F. Fitzgerald",
+    "publisher": "Ablaze",
+    "price": "129 DKK",
+    "picture": "img/thegreatgatsby.jpeg",
+    "discount": "no"
+  },
+
+  {
+    "id": 11,
+    "bookTitle": "On the Road",
+    "year": 1991,
+    "language": "English",
+    "genre": "Clssic Fiction",
+    "author": "Jack Kerouac",
+    "publisher": "Penguin Classic",
+    "price": "129 DKK",
+    "picture": "img/ontheroad.jpg",
+    "discount": "no"
+  },
+  {
+    "id": 12,
+    "bookTitle": "On the Road",
+    "year": 1991,
+    "language": "English",
+    "genre": "Clssic Fiction",
+    "author": "Jack Kerouac",
+    "publisher": "Penguin Classic",
+    "price": "129 DKK",
+    "picture": "img/ontheroad.jpg",
+    "discount": "no"
+  },
+  {
+    "id": 13,
+    "bookTitle": "Javascript: The Definitive Guide",
+    "year": 2014,
+    "language": "English",
+    "genre": "Non Fiction",
+    "author": "David Flanagan",
+    "publisher": "O'REILLY",
+    "price": "179 DKK",
+    "picture": "img/javascript.jpg",
+    "discount": "no"
+  },
+
+  {
+    "id": 14,
+    "bookTitle": "Steve Jobs",
+    "year": 2012,
+    "language": "English",
+    "genre": "Biography",
+    "author": "Walter Isaacson",
+    "publisher": "Gyldendal",
+    "price": "179 DKK",
+    "picture": "img/stevejobs.jpg",
+    "discount": "no"
+  },
+
+  {
+    "id": 15,
+    "bookTitle": "100 years of Solitude",
+    "year": 2014,
+    "language": "English",
+    "genre": "Magic Realism",
+    "author": "Gabriel Garcia Marquez",
+    "publisher": "Penguin",
+    "price": "179 DKK",
+    "picture": "img/onehundredyearsofsolitude.jpeg",
+    "discount": "no"
+  },
+
+  {
+    "id": 16,
+    "bookTitle": "Da Vinci Code",
+    "year": 2003,
+    "language": "English",
+    "genre": "Thriller",
+    "author": "Dan Brown",
+    "publisher": "Penguin",
+    "price": "179 DKK",
+    "picture": "img/davincicode.jpg",
+    "discount": "no"
+  },
+
+  {
+    "id": 17,
+    "bookTitle": "The Idiot",
+    "year": 2003,
+    "language": "English",
+    "genre": "Classic Fiction",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "Bantam Classic",
+    "price": "179 DKK",
+    "picture": "img/theidiot.jpg",
+    "discount": "no"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Rares",
+    "address": "Raresvej 14",
+    "email": "something@email.com",
+    "password": "wowwow",
+    "basket": [0, 2]
+  },
+  {
+    "id": 1,
+    "name": "David",
+    "address": "Davidvej 15",
+    "email": "dv@email.com",
+    "password": "12345",
+    "basket": [0, 2]
+  },
+  {
+    "id": 1,
+    "name": "Fabian",
+    "address": "Fabianvej 15",
+    "email": "fb@email.com",
+    "password": "123wow",
+    "basket": [0, 2]
+  }
+]
