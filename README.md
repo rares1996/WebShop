@@ -1,5 +1,5 @@
 <h2> Mini-Project3</h2>
-Made in collaboration with Fabian August Clement Harlang, Darinka, David Nikolaj Vinje, Iga Anna Waclawska
+Made in collaboration with Fabian August Clement Harlang, Darinka Gordillo Maldonado, David Nikolaj Vinje, Iga Anna Waclawska
 
 Linnk to report: https://docs.google.com/document/d/1h0ucsJpRpzURoJV3a48K5uJLnS7iONi0a7im9LbmLeQ/edit#
 
